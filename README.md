@@ -10,6 +10,7 @@
 ﻿# PUT /:id: Updates an existing product.<br/>
 ﻿# DELETE /:id: Deletes a product.<br/>
 ﻿# Add middleware to log requests to the console. Use express.json() to parse incoming JSON payloads.<br/>
+# Download Postman software and use to get complete output<br/>
 
  # To run
  # npm start
